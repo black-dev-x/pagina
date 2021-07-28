@@ -1,0 +1,2 @@
+(this.webpackJsonpgen=this.webpackJsonpgen||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);t(1);var o=t(3),c=t.n(o),r=(t(8),t(0)),s=function(){return Object(r.jsx)("div",{children:"Goodbye World!"})};c.a.render(Object(r.jsx)(s,{}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
+//# sourceMappingURL=main.21a455cf.chunk.js.map
